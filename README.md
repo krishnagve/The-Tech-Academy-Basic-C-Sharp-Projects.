@@ -1,1 +1,3 @@
 # The-Tech-Academy-Basic-C-Sharp-Projects.
+
+This course introduces the basics of C# programming and the .NET Framework. It covers fundamental programming terms, object-oriented concepts, and how .NET supports them. You learn how the .NET common language infrastructure works, how to use the C# compiler, and how to write programs in Visual Studio. The course also explains essential C# features such as data types, casting, variables, math operations, Boolean logic, if/else statements, branching, loops, and working with strings. Overall, it provides a strong foundation to start building applications using C#.
